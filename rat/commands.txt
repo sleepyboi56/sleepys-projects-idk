@@ -1,0 +1,6 @@
+#Command list
+# view_cwd - will show all files in the directory where the file is running
+# custom_dir - will show all files from custom directory
+# download_files - will download files from directory
+# remove_files - will remove file from directory
+# send_files - will send file to directory
